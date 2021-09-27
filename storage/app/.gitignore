@@ -1,0 +1,5 @@
+*
+!public/
+!ejemplos/
+!plantillas/
+!.gitignore

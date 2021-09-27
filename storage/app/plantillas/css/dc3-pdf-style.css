@@ -1,0 +1,234 @@
+body
+{
+	line-height: 1.1em;
+    
+}
+@page {
+    margin-top: 0.25cm;
+    sheet-size: Letter;
+}
+
+.topheader
+{
+    width: 100%;
+    font-family: 'Calibri';
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.toptitle
+{
+    width: 100%;
+    font-family: arialroundedmt;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 35px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.toptitle p
+{
+    padding-bottom: -15px;
+}
+
+.legend
+{
+    font-family: arialnarrow;
+}
+
+.legend0
+{
+    font-size: 0.7em;
+}
+
+.legend1
+{
+    font-size: 0.8em;
+}
+
+.legend2
+{
+    font-size: 0.85em;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.section
+{
+    margin-top: 13px;
+    width: 100%;
+    border:1px solid black;
+}
+
+.section-title{
+    font-family: arialroundedmt;
+    font-size: 13px;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.sub-section-legend
+{
+    padding: 1px;
+}
+
+.sub-section-field
+{
+    text-align: center;
+    padding: 3px 1px;
+}
+
+.letters-sub-section
+{
+    border-spacing: 0px;
+    border-collapse: collapse;   
+}
+
+.letters-sub-section-right
+{
+    float: right;
+}
+
+.letters-sub-section td
+{
+    height: 23px;
+    width: 22px;
+    text-align: center;
+    font-family: arialnarrow;
+    font-size: 0.85em;
+}
+
+.letters-sub-section th
+{
+    height: 18px;
+    width: 22px;
+    text-align: center;
+    font-family: arialnarrow;
+    font-size: 0.80em;
+    font-weight: normal;
+}
+
+.letter-border
+{
+    border-left: 1px solid black;
+}
+
+.sub-section
+{
+    float: left;
+    width:55%;
+    border-right: 1px solid black;
+}
+
+.sub-section-box
+{
+    border-top: 1px solid black;
+}
+
+.sub-section-duration
+{
+    float: left;
+    width:25%;
+    border-right: 1px solid black;
+}
+
+.section-title-white{
+    font-family: arialnarrow;
+    width: 80%;
+    text-align: center;
+    padding: 5px;
+    font-size: 0.85em;
+    padding-left: 65px;
+}
+
+.section-side
+{
+    float: left;
+    width: 25%;
+    padding-left: 25px;
+    text-align: center;
+    margin-left: 55px;
+}
+
+.section-side-b
+{
+    float: left;
+    width: 25%;
+    padding-left: 45px;
+    text-align: center;
+    margin-left: 55px;
+}
+
+.section-right
+{
+    float: left;
+    width: 30%;
+    padding-left: 0px;
+    text-align: center;
+    margin-left: 65px;
+}
+
+.section-middle
+{
+    float: left;
+    width: 15%;
+}
+
+.section-middle-b
+{
+    float: left;
+    width: 12%;
+}
+
+.margin-top-box
+{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.margin-top-box-b
+{
+    width: 100%;
+    margin-top: 55px;
+    margin-bottom:10px;
+}
+
+.signature-line
+{
+    border-top: 1px solid black;
+}
+
+.right
+{
+    width: 100%;
+    text-align: right;
+}
+
+.legend-box-top
+{
+    margin-left: 5px;
+    width: 90%
+}
+
+.legend-box-top p
+{
+    margin: 0px;
+}
+
+.legend-box-bottom
+{
+    width: 90%
+}
+
+.legend-box-bottom p
+{
+    margin: 0px;
+}
